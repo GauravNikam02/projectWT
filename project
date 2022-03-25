@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>flower</title>
+<style>
+.flower
+{background-color:#FF0000;
+}
+</style>
+</head>
+
+<body>
+<h1 align="center" class=" flower">Flowers Information<h1>
+<a href="f1.html" >
+<img src="2507543441_baea91a55b_b.jpg" height="300" width="400" /></a>
+
+
+<a href="f2.html" >
+<img src="R.jpg" height="300" width="400" /></a>
+
+
+<a href="f3.html" >
+<img src="sunflower.jpg" height="300" width="400" /></a>
+
+<a href="f4.html" >
+<img src="R (1).jpg" height="300" width="400" /></a>
+
+<a href="f5.html" >
+<img src="R (2).jpg" height="300" width="400" /></a>
+</body>
+</html>
